@@ -1,5 +1,12 @@
 # Saffron-Sky-Suites-Business-Insights
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Tools Used](#tools-used)
+- [Data Source](#data-source)
+- [Approach]
+
 ## Project Overview 
 **Saffron Sky Suites**, a luxury hotel chain, is leveraging a data-driven approach to regain market share and revenue in the competitive hospitality industry. This project features an interactive Power BI dashboard designed to analyze KPI's (key performance indicators) to deliver actionable business insights, enabling stakeholders to make data-driven decisions and improve operational performance.
 
@@ -12,15 +19,13 @@
 - **Power BI** : For designing interactive dashboard and visualizations.
 
 ## Data Source 
-The dataset comprises of following CSV files 
-- dim_date.csv: information about date and day type
-- dim_hotels.csv: Information about the property, their category and the city.
-- dim_rooms.csv: Details about the rooms and their types or categories.
-- fact_aggregated_bookings.csv: details about the check in date, room category , successful booking for particular property id.
-- fact_bookings.csv: details about the bookings , booking platform and booking ststus with check in, check out date and revenue realized and generated 
-- metrics list.csv: 
-
-
+The dataset comprises of following CSV files: 
+- dim_date.csv: Contains information about dates and their corresponding day types (e.g., weekday, weekend).
+- dim_hotels.csv: Provides details about the properties, including their category and location (city).
+- dim_rooms.csv: Includes information about room types and categories for each property.
+- fact_aggregated_bookings.csv: Aggregated data detailing check-in dates, room categories, successful bookings, and property IDs.
+- fact_bookings.csv: Comprehensive booking details, including booking platform, booking status, check-in and check-out dates, and revenue (realized and generated). 
+- metrics_list.csv and Mock-Up Dashboard: Documents provided by stakeholders outlining required metrics and a reference dashboard design to guide the analysis.
 
 
 
