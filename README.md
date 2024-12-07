@@ -5,7 +5,7 @@
 - [Problem Statement](#problem-statement)
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
-- [Approach]
+- [Key Metrics](#key-metrics)
 
 ## Project Overview 
 **Saffron Sky Suites**, a luxury hotel chain, is leveraging a data-driven approach to regain market share and revenue in the competitive hospitality industry. This project features an interactive Power BI dashboard designed to analyze KPI's (key performance indicators) to deliver actionable business insights, enabling stakeholders to make data-driven decisions and improve operational performance.
@@ -26,6 +26,22 @@ The dataset comprises of following CSV files:
 - fact_aggregated_bookings.csv: Aggregated data detailing check-in dates, room categories, successful bookings, and property IDs.
 - fact_bookings.csv: Comprehensive booking details, including booking platform, booking status, check-in and check-out dates, and revenue (realized and generated). 
 - metrics_list.csv and Mock-Up Dashboard: Documents provided by stakeholders outlining required metrics and a reference dashboard design to guide the analysis.
+
+## Key Metrics 
+- **Revenue:** ₹1.69 billion  
+- **RevPAR (Revenue Per Available Room):** ₹7,337  
+- **ADR (Average Daily Rate):** ₹12,696  
+- **Occupancy Percentage:** 57.8%  
+- **Realisation Percentage:** 70.1%  
+- **Cancellation Percentage:** 24.8%  
+- **Total Bookings:** 133K  
+- **Average Customer Rating:** 3.62/5
+- **DSRN (Daily Sellable Room Nights):** 2,528
+
+## Key Visuals 
+### 1. **Executive Summary:** 
+
+
 
 
 
