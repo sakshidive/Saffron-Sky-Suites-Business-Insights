@@ -6,6 +6,7 @@
 - [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Key Metrics](#key-metrics)
+- [Key Visuals](#key-visuals)
 
 ## Project Overview 
 **Saffron Sky Suites**, a luxury hotel chain, is leveraging a data-driven approach to regain market share and revenue in the competitive hospitality industry. This project features an interactive Power BI dashboard designed to analyze KPI's (key performance indicators) to deliver actionable business insights, enabling stakeholders to make data-driven decisions and improve operational performance.
@@ -39,7 +40,19 @@ The dataset comprises of following CSV files:
 - **DSRN (Daily Sellable Room Nights):** 2,528
 
 ## Key Visuals 
-### 1. **Executive Summary:** 
+### 1. **Executive Summary:**
+- A high-level summary of the hotels KPI's(key performance indicators) for quick decision-making.
+- Spot trends and identify focus areas without diving into granular details. 
+- Enable leadership to align strategies with overall performance indicators.
+- Empowers executives to monitor performance at a glance and make data-driven strategic decisions.
+
+[Executive Summary Dashboard]( )
+
+### 2. **Overall Performance:**
+- 
+
+
+
 
 
 
