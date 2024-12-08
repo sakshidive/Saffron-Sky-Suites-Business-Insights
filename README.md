@@ -49,6 +49,13 @@ The dataset comprises of following CSV files:
 [Executive Summary Dashboard]( )
 
 ### 2. **Overall Performance:**
+- Offers a revenue-centric analysis of hotel operations and performance.
+- Highlights high-performing areas and revenue gaps to guide strategic improvements.
+- Enables stakeholders to optimize pricing, marketing strategies, and operational decisions for maximum profitability.
+
+[Overall Performance Dashboard]( )
+
+### 3. **Bookings Insights:**
 - 
 
 
