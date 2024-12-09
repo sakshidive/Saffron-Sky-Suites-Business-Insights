@@ -22,6 +22,7 @@
 ## Data Source 
 The dataset comprises of following CSV files: 
 - dim_date.csv: Contains information about dates and their corresponding day types (e.g., weekday, weekend).
+ #### **Note**: In the hospitality industry, **Friday and Saturday** are considered **weekends**, while **Sunday to Thursday** are **weekdays**.
 - dim_hotels.csv: Provides details about the properties, including their category and location (city).
 - dim_rooms.csv: Includes information about room types and categories for each property.
 - fact_aggregated_bookings.csv: Aggregated data detailing check-in dates, room categories, successful bookings, and property IDs.
@@ -54,7 +55,16 @@ The dataset comprises of following CSV files:
 
 
 ### 3. **Bookings Insights:**
+- Detailed analysis of booking patterns, platform contributions, and cancellations.
+- Reduce revenue leakage, optimize platform performance, and understand guest preferences.
+- Helps maximize bookings, prioritize resources, and improve guest experiences.
+
+## Dahboard Preview
+
+## Insights 
 - 
+
+
 
 
 
