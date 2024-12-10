@@ -59,10 +59,21 @@ The dataset comprises of following CSV files:
 - Reduce revenue leakage, optimize platform performance, and understand guest preferences.
 - Helps maximize bookings, prioritize resources, and improve guest experiences.
 
-## Dahboard Preview
+## Dashboard Preview
 
 ## Insights 
-- 
+- **Saffron Exotica** generated the highest revenue (₹316M), followed by **Saffron Palace** (₹300M).  
+- **Saffron Seasons** is the lowest performing property, with the least revenue, lowest customer ratings, and a 44.6% occupancy rate 
+- Elite rooms are the top revenue contributors, while Standard rooms underperforms.
+- Luxury hotels drive 61.6 % of total revenue, while business hotels contribute for 38.4% .
+- **Makeyourtrip** and **Others** platforms account for over 20K cancellations combined, the highest among booking channels.  
+- Weekend occupancy outperforms weekdays, but weekdays contribute significantly to overall bookings requiring strategies targeting both time periods.
+
+## Recommendations
+ 
+
+
+
 
 
 
