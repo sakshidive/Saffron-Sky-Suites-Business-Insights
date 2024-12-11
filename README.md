@@ -70,7 +70,18 @@ The dataset comprises of following CSV files:
 - Weekend occupancy outperforms weekdays, but weekdays contribute significantly to overall bookings requiring strategies targeting both time periods.
 
 ## Recommendations
- 
+- **Dynamic Pricing**: Adjust pricing based on seasonal trends, charging premium rates on weekends and offering discounts during low-demand periods.
+- **Marketing Focus**: Target underperforming locations, platforms, and room types like Standard rooms to boost revenue.
+- **Weekday Strategies**: Launch corporate discounts and loyalty programs to attract business travelers during weekdays.
+- **Cancellation Policies**: Implement stricter policies for peak periods and offer incentives to reschedule rather than cancel.
+- **Direct Bookings**: Provide exclusive discounts and better deals to increase direct bookings and enhance customer loyalty.
+
+## Outcomes/Impact
+- Proposed dynamic pricing strategies, leading to a potential 15% revenue increase.  
+- Provided actionable insights into underperforming hotel locations, enabling better resource allocation and marketing.
+- Enhanced decision-making through real-time dashboards and trend analysis of booking patterns.
+
+
 
 
 
