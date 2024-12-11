@@ -53,17 +53,21 @@ The dataset comprises of following CSV files:
 - Enable leadership to align strategies with overall performance indicators.
 - Empowers executives to monitor performance at a glance and make data-driven strategic decisions.
 
+![Screenshot 2024-12-12 015928](https://github.com/user-attachments/assets/e1e8c367-e8f8-4838-9721-e767bc9a6f5d)
 
 ### 2. **Overall Performance:**
 - Offers a revenue-centric analysis of hotel operations and performance.
 - Highlights high-performing areas and revenue gaps to guide strategic improvements.
 - Enables stakeholders to optimize pricing, marketing strategies, and operational decisions for maximum profitability.
 
+![Screenshot 2024-12-12 020016](https://github.com/user-attachments/assets/44a41cde-38bc-4db8-a4b3-78f4888b710a)
 
 ### 3. **Bookings Insights:**
 - Detailed analysis of booking patterns, platform contributions, and cancellations.
 - Reduce revenue leakage, optimize platform performance, and understand guest preferences.
 - Helps maximize bookings, prioritize resources, and improve guest experiences.
+
+![Screenshot 2024-12-12 020046](https://github.com/user-attachments/assets/4951c705-6bd7-45a3-a617-8e15b0ba43ac)
 
 ## Dashboard Preview
 
