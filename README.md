@@ -7,6 +7,12 @@
 - [Data Source](#data-source)
 - [Key Metrics](#key-metrics)
 - [Key Visuals](#key-visuals)
+- [Dashboard Preview](#dashboard-preview)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+- [Outcomes](#outcomes)
+- [Skills Learned](#skills-learned)
+- [Conclusion](#conclusion)
 
 ## Project Overview 
 **Saffron Sky Suites**, a luxury hotel chain, is leveraging a data-driven approach to regain market share and revenue in the competitive hospitality industry. This project features an interactive Power BI dashboard designed to analyze KPI's (key performance indicators) to deliver actionable business insights, enabling stakeholders to make data-driven decisions and improve operational performance.
@@ -76,10 +82,20 @@ The dataset comprises of following CSV files:
 - **Cancellation Policies**: Implement stricter policies for peak periods and offer incentives to reschedule rather than cancel.
 - **Direct Bookings**: Provide exclusive discounts and better deals to increase direct bookings and enhance customer loyalty.
 
-## Outcomes/Impact
+## Outcomes
 - Proposed dynamic pricing strategies, leading to a potential 15% revenue increase.  
 - Provided actionable insights into underperforming hotel locations, enabling better resource allocation and marketing.
 - Enhanced decision-making through real-time dashboards and trend analysis of booking patterns.
+
+## Skills Learned 
+- Advanced data visualization and dashboard creation using Power BI.
+- Data transformation with Power Query 
+- Calculating key hospitality metrics like RevPAR and ADR using DAX.
+- Deriving actionable business insights from data analysis.
+- Data Modeling
+
+## Conclusion 
+This project demonstrates how data analysis and Power BI can identify revenue gaps, optimize pricing strategies, improve resource allocation, and enhance customer satisfaction. By analyzing key metrics and trends, the findings highlight growth opportunities and showcase my ability to leverage data visualization to deliver impactful, data-driven strategies for business success."
 
 
 
