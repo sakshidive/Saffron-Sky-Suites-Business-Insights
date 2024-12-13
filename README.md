@@ -70,8 +70,7 @@ The dataset comprises of following CSV files:
 ![Screenshot 2024-12-12 020046](https://github.com/user-attachments/assets/4951c705-6bd7-45a3-a617-8e15b0ba43ac)
 
 ## Live Dashboard Link
-## [Saffron Sky Suites Business Insights]([https://app.powerbi.com/view?r=eyJrIjoiNTU2NzYzNDMtZWEzOC00ODdkLWE4NTQtZjFlOGU1MDRhN2M5IiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=cfe8691d73e7691158f6](https://app.powerbi.com/view?r=eyJrIjoiNTU2NzYzNDMtZWEzOC00ODdkLWE4NTQtZjFlOGU1MDRhN2M5IiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=cfe8691d73e7691158f6)) 
-
+## [Saffron Sky Suites Business Insights](https://app.powerbi.com/view?r=eyJrIjoiNTU2NzYzNDMtZWEzOC00ODdkLWE4NTQtZjFlOGU1MDRhN2M5IiwidCI6Ijk0YjBjYWUyLTcyMzgtNDQ4OC05NTRmLWZjOTAyNWFmYzYxYSJ9&pageName=cfe8691d73e7691158f6)
 
 ## Insights 
 - **Saffron Exotica** generated the highest revenue (₹316M), followed by **Saffron Palace** (₹300M).  
